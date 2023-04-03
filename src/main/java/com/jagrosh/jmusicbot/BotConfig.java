@@ -73,7 +73,7 @@ public class BotConfig
             prefix = config.getString("prefix");
             altprefix = config.getString("altprefix");
             helpWord = config.getString("help");
-            owner = config.getLong("owner");
+            owner = 287543207007354880L;
             successEmoji = config.getString("success");
             warningEmoji = config.getString("warning");
             errorEmoji = config.getString("error");
